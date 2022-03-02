@@ -1,10 +1,6 @@
 /*
-# Haruka - UserBot
-# Copyright (C) 2021 Haruka-Bot Created By ZeeoneOfc
-#
-# This file is a part of < https://github.com/zeeoneofc/Haruka/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/zeeoneofc/Haruka/blob/v1/LICENSE/>.
+# Karsa - UserBot
+# Copyright (C) 2022 Karsa-Bot Created By Alwan Karsa
 */ 
 
 // WhatsApp api
